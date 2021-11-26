@@ -1,0 +1,16 @@
+.all_rights{
+    position: absolute;
+    width: 1000px;
+    height: 10px;
+    left: 153px;
+    top: 2815px;
+    
+    font-family: Poppins;
+    font-style: italic;
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    
+    color: #000000;
+    
+    }

@@ -1,0 +1,76 @@
+.Nav_Div{
+    position: absolute;
+    width: 1400px;
+    height: 78px;
+    left: 0px;
+    top: 0px;
+
+    background: #000000;
+}
+.normal_button{
+    position: absolute;
+    width: 200px;
+    height: 35px;
+    left: 1140px;
+    top: 25px;
+    
+    background: #D7C846;
+    border-radius: 15px;
+}
+.search_button{
+    position: absolute;
+    width: 572px;
+    height: 42px;
+    left: 150px;
+    top: 18px;
+
+    background: #FFFFFF;
+    border-radius: 20px;
+}
+.owner_button{
+    position: absolute;
+    width: 121px;
+    height: 38px;
+    left: 821px;
+    top: 22px;
+
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: black;
+
+    color:white;
+}
+
+.tenant_button{
+    position: absolute;
+width: 121px;
+height: 38px;
+left: 956px;
+top: 22px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+text-align: center;
+border-radius: 10px;
+background-color: black;
+
+color:white;
+}
+
+.SearchSpan {
+    position: absolute;
+    width: 15%;
+    padding-top: 4px;
+    text-align: center;
+    color: black;
+    border-radius: 5px 0 0 5px;
+    font-size: 20px;
+    left: 75px;
+    top: 27px;
+  }

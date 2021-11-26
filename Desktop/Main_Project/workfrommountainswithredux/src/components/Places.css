@@ -1,0 +1,96 @@
+.secondTitle{
+    position: absolute;
+    width: 1174px;
+    height: 109px;
+    left: 141px;
+    top: 660px;
+
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+    text-align: center;
+
+    color: #000000;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.sideHeading_first{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    /* top: 900px; */
+    bottom: 43.22%;
+
+    font-family: Roboto;
+    font-style: italic;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 56px;
+
+    color: #000000;
+}
+
+.sideHeading_second{
+position: absolute;
+left: 0%;
+right: 11.94%;
+top: 150px;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: italic;
+font-weight: 600;
+font-size: 40px;
+line-height: 56px;
+
+color: #6B6868;
+
+}
+
+.line{
+position: absolute;
+left: 0%;
+right: 53.43%;
+/* top: 1000px; */
+bottom: 43.22%;
+
+border: 3px solid #F1DA0B
+}
+
+.side {
+position: absolute;
+width: 335px;
+height: 317px;
+left: 141px;
+top: 900px;
+}
+
+.shimla{
+    position: absolute;
+    width: 352px;
+    height: 426px;
+    left: 521px;
+    top: 780px;
+    color: white;
+    font-weight: 600;
+    font-size: 40px;
+    border-radius: 44px;
+    background-image: url("https://wallpaperaccess.com/full/378016.jpg");
+    background-size: 352px 426px;
+}
+
+.manali{
+position: absolute;
+width: 338px;
+height: 426px;
+left: 897px;
+top: 780px;
+color: white;
+font-weight: 600;
+font-size: 40px;
+border-radius: 44px;
+background-image: url("https://images2.alphacoders.com/238/thumb-1920-238870.jpg");
+background-size: 352px 426px;
+}
